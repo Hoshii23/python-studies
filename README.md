@@ -15,4 +15,4 @@ Esse repositório é onde eu coloco todos os meus estudos e projetos em Python, 
 
 ---
 
-Feito por **Hoshii23** — Engenharia da Computação, FACAMP.
+Feito por **Enrico Hoshii Ferreira** — Engenharia da Computação, FACAMP.
