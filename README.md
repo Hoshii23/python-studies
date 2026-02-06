@@ -1,4 +1,4 @@
-# Python Studies 🚀
+# Python Studies 
 
 Esse repositório é onde eu coloco todos os meus estudos e projetos em Python, com foco em segurança da informação e análise de dados.
 
